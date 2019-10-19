@@ -30,7 +30,7 @@ Overview:
 
 We'll have to figure this out together. Here's an init:
 
-- meet weekly? at the Central Library on Saturdays? 11am
+- meet biweekly? at the ~~Central Library~~ Edison? on Saturdays? 11am
 - come at 11am, leave whenever you want? I'll be leaving at 2pm-ish
 - stand up meeting from 11:05am - 11:20am, to set the tone for the day.
 - do stuffs ...
@@ -86,4 +86,5 @@ Generally formed around buzzwords:
 - GraphQL
 - Serverless
 - Microservices
+- Monorepo / Lerna
 - etc.
