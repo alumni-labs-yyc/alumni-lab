@@ -6,7 +6,7 @@ Categories:
 
 - Programming Lanuguages
     - TypeScript
-    - Dart
+    - Flutter
 - Front-end Frameworks
     - React, Vue
 - Back-end Frameworks

@@ -9,7 +9,7 @@
 - usually has a full-stack component
 - has one "lead" dev
 - takes 4 to 6 weeks
-- e.g. Quote Chat, Many Faced God
+- e.g. Video bookmarking app
 
 # Small Project
 
@@ -23,4 +23,4 @@
 
 - ongoing
 - can have small (single day) independent features added
-- e.g. Nimbus UI
+- e.g. Pluggabl

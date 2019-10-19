@@ -3,7 +3,7 @@
 ## Goals
 
 - Have fun being better developers by doing:
-  - Get alumni coding more
+  - Code more
   - Learn new stack or tools
   - Practice good habits
     - Documentation

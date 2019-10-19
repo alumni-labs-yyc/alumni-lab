@@ -2,6 +2,7 @@
 What is it?
 - the ability to automatically apply complex mathematical calculations to big data
 - born from pattern recognition and the theory that computers can learn without being programmed to perform specific tasks
+
 What is it used for?
 - Online recommendation offers such as those from Amazon and Netflix? Machine learning applications for everyday life
 - Fraud detection? One of the more obvious, important uses in our world today
