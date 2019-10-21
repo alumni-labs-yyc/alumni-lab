@@ -21,7 +21,7 @@ The goals of this lab:
 
 Overview:
 
-- Once a week for 3 hours (Saturdays?)
+- Once a biweekly for 3 hours (Saturdays?)
 - Show up with your own projects, or come to pick up a project
 - Your own projects stay closed source, or whatever license you'd like to keep
 - Projects started in the lab are open source
