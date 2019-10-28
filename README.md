@@ -1,6 +1,6 @@
 # Lighthouse Labs Alumni Lab
 
-Welcome to the Alumni Lab!
+Welcome to the Alumni Lab YYC!
 
 The goals of this lab:
 
@@ -21,7 +21,7 @@ The goals of this lab:
 
 Overview:
 
-- Once a biweekly for 3 hours (Saturdays?)
+- Once a fortnight for 3 hours (Saturdays?)
 - Show up with your own projects, or come to pick up a project
 - Your own projects stay closed source, or whatever license you'd like to keep
 - Projects started in the lab are open source
@@ -76,7 +76,6 @@ Should people do work outside of lab time? They can! I will maintain the project
 
 Ideas for the first project:
 
-- Random food order app
 - Video bookmarking app
 - Pluggable widgets library
 - Other ideas you bring with you to the first meeting
